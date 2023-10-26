@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CVD_project.iml" filepath="$PROJECT_DIR$/.idea/CVD_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Consensus_Clustering/.idea/Consensus_Clustering.iml" filepath="$PROJECT_DIR$/../Consensus_Clustering/.idea/Consensus_Clustering.iml" />
     </modules>
   </component>
 </project>
